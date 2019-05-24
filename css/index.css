@@ -25,7 +25,7 @@ a:link{
 
 .logo-brand{
   height:5rem;
-  width: 30% !important; 
+  width: 40% !important; 
 }
 .redes-sociales{
   object-fit: fill;
@@ -66,10 +66,10 @@ a:link{
   font-size: 1rem;
 }
 .bg-friends{
-  background-image: url("../img/sections/evento.jpg");
-  color: #ffff;
-  background-size: cover;
-  height:  70vh;
+  background-image: url("../img/sections/colaboración.jpg");
+  color: #202a35;
+  background-size: fill;
+  height: 50vh;
 }
 
 .btn-friends:hover {
@@ -144,7 +144,7 @@ video{
 }
 #eventos {
   background-color: #343a40;
-  color: white;
+  color: white; 
 }
 
 #eventos img {
@@ -169,7 +169,7 @@ video{
 
 
 #footer {
-  background: linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372);
+  background:#343a40;
 }
 
 #footer a {
